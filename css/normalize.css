@@ -417,3 +417,12 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
+
+/* custom overrides */
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
